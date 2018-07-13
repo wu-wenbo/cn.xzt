@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sboot1/sboot1.iml" filepath="$PROJECT_DIR$/sboot1/sboot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot2/sboot2.iml" filepath="$PROJECT_DIR$/sboot2/sboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot2-1/sboot2-1.iml" filepath="$PROJECT_DIR$/sboot2-1/sboot2-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot3/sboot3.iml" filepath="$PROJECT_DIR$/sboot3/sboot3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_clouds.iml" filepath="$PROJECT_DIR$/springboot_clouds.iml" />
+    </modules>
+  </component>
+</project>
